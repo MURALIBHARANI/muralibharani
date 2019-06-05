@@ -1,0 +1,13 @@
+import java.util.*;
+public class he
+{
+    public static void main(String args[])
+    {
+        Scanner s=new Scanner(System.in);
+        String a="Hello";
+        String b="World";
+        String c="Java";
+        System.out.println(a+", "+b+".");
+        System.out.println(a+", "+c+".");
+    }
+}
